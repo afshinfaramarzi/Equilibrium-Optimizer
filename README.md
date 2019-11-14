@@ -11,7 +11,7 @@ EO’s performance was validated against 58 mathematical functions including uni
 
 The structure of EO is simple and easy to implement. This algorithm is computationally efficient and like PSO and GA its complexity is of polynomial order: O(tnd+tcn) where t,n,d and c represents iteration, number of particles, number of dimensions and cost of function evaluation, respectively.
 
-You can download the main paper (https://doi.org/10.1016/j.knosys.2019.105190).
+You can download the main paper here https://doi.org/10.1016/j.knosys.2019.105190
 
 If you don’t have access to the paper, just leave me a message at afaramar@hawk.iit.edu or 
 afshin.faramarzi@gmail.com and I will get back to you soon. 
