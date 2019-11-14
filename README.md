@@ -1,5 +1,6 @@
 ## Equilibrium-Optimizer
 This is the source code of Equilibrium Optimizer written in MATLAB.
+
 Equilibrium Optimizer (EO) is a novel optimization algorithm, inspired by control volume mass balance to estimate both dynamic and equilibrium state. In EO, search agents randomly update their concentration (Position) with respect to some talented particles called equilibrium candidates to finally reach to equilibrium state (optimal results). Figure below schematically shows equilibrium candidates’ collaboration in updating a particles’ concentration. 
 
 <p align="center">
